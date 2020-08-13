@@ -1,7 +1,7 @@
 #content {
 	text-align: center;
 	background-color: #DD0000;
-		margin-left: auto;
+	margin-left: auto;
 	margin-right: auto;
 }
 
@@ -36,5 +36,4 @@
 
 	h1 { 
 		font-family: "Roboto"; 
-		font-size: 30px;
-}
+	}
